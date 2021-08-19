@@ -50,8 +50,8 @@
 }
 
 .a{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 body {
     background-color: #FFEBEE
@@ -151,7 +151,7 @@ body {
   }
   
 .body {
-    padding: 20px;
+    padding: 15px;
     background: #eee;
     user-select: none;
   }
@@ -218,5 +218,6 @@ body {
   #slide3 { background: #eeeaea }
   #slide4 { background: #eeeaea }
   #slide5 { background: #eeeaea }
-  #slide5 { background: #eeeaea }
+  #slide6 { background: #eeeaea }
+
 
